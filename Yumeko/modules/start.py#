@@ -7,7 +7,7 @@
  from Yumeko.decorator.save import save
 
  IMAGE_URLS = [
-     "https://files.catbox.moe/k3orsl.jpg"]
+     "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"]
 
 
 
