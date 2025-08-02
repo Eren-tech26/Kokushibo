@@ -3,12 +3,12 @@
 class config:
     
     #Client
-    API_ID = 26249286
-    API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
-    BOT_TOKEN = "8040764357:AAGAR8ojTQdABD8pdl3FuoeB1HiftdaLKEc"
-    BOT_NAME = "test"
-    BOT_USERNAME = "yukixrobot"
-    BOT_ID = 8040764357
+    API_ID = 21968859
+    API_HASH = "21a59d21687f01d448530ee88a26b1eb"
+    BOT_TOKEN = "7607794789:AAFZFpxCfgv5PPEp3OkkvYXpOLzmGy7bbIE"
+    BOT_NAME = "耀•|Kᴏᴋᴜsʜɪʙᴏ"
+    BOT_USERNAME = "@TheKokushibobot"
+    BOT_ID = 7607794789
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -21,20 +21,20 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 6018803920
-    OWNER_USERNAME = "slayer1237"
-    SUPPORT_CHAT = -1002745123292
-    SUPPORT_CHAT_USERNAME = "RomanEmpire_Gateway"
-    SUPPORT_CHAT_LINK = "https://t.me/RomanEmpire_Gateway"
+    OWNER_ID = 6356050482
+    OWNER_USERNAME = "@Veron_seller"
+    SUPPORT_CHAT = -1002682161298
+    SUPPORT_CHAT_USERNAME = "VERON_SUPPORTS"
+    SUPPORT_CHAT_LINK = "https://t.me/VERON_SUPPORTS"
     LOG_CHANNEL = -1002745123292
-    ERROR_LOG_CHANNEL = -1002745123292
+    ERROR_LOG_CHANNEL = --1002745123292
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://files.catbox.moe/xfo8hk.jpg"
-    START_IMG_URL = "https://files.catbox.moe/xfo8hk.jpg"
-    HELP_IMG_URL = "https://files.catbox.moe/xfo8hk.jpg"
-    ALIVE_IMG_URL = "https://files.catbox.moe/xfo8hk.jpg"
+    STATS_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
+    START_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
+    HELP_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
+    ALIVE_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
     DATABASE_NAME = "test"
